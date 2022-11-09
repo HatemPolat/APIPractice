@@ -7,7 +7,7 @@ import org.junit.Before;
 public class GMIBankBaseURL {
 
     protected RequestSpecification spec01;
-
+//bunu yeni atiyorum.
     @Before
     public void setUp(){
 
